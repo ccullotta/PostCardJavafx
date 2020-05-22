@@ -1,0 +1,16 @@
+#mytext{
+    -fx-height: 100%;
+    -fx-fill: RED;
+}
+
+#botBar{
+-fx-background-color: #5b6e8c;
+}
+
+#input{
+-fx-background-color: WHITE;
+}
+
+#noBord{
+-fx-background-color: transparent;
+}
